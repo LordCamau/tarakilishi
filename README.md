@@ -1,6 +1,6 @@
-# Tarakilishi
+# Kikokotoo
 
-Tarakilishi (Swahili for “calculator”) is a simple, lightweight JavaScript calculator that brings math to life with clean logic, responsive design, and a touch of local flair.
+Kikokotoo (Swahili for “calculator”) is a simple, lightweight JavaScript calculator that brings math to life with clean logic, responsive design, and a touch of local flair.
 
 ---
 
